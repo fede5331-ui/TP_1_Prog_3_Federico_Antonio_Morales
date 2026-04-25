@@ -18,7 +18,7 @@ nav {
 
 nav a {
   color: #f5f0e8;
-  font-size: 1.1em;
+  font-size: 1.3em;
 }
 
 /* Títulos */
@@ -33,13 +33,18 @@ h2 {
 }
 
 h3 {
+  font-size: 1.8em;
+  color: #6b3f1f;
+}
+
+h4 {
   font-size: 1.3em;
   color: #8b5e3c;
 }
 
 /* Párrafos */
 p {
-  font-size: 1em;
+  font-size: 1.2em;
   color: #3b2a1a;
 }
 
@@ -62,7 +67,7 @@ td {
 
 /* Footer */
 footer {
-  background-color: #6b3f1f;
+  background-color: #8b5e3c;
   color: #f5f0e8;
   font-size: 0.9em;
 }
